@@ -1,56 +1,75 @@
-PROFESSIONAL OVERVIEW
-Results driven Technical Writer with 10+ years of experience transforming complex information into clear, user-friendly documentation across diverse industries. Proven expert in content authoring and management using Agile methodologies. Consistently delivering high-quality user manuals, user guides, process documentation and knowledge bases.
-WORK EXPERIENCE
+---
 
-Technical Documentation Coordinator
-Tetra Pak India, Pune | January 2024- Present
-•	Manage full-cycle documentation for mechanical and electrical systems, including writing, reviewing, updating, and publishing product documentation using Arbortext, Windchill and Adobe.
-•	Coordinating with stakeholders across 5 project centers (APAC, Africa, JKO) to identify documentation requirements, 
-•	Design content as per corporate standards and continuously upgrade the processes with innovative ideas for top-quality output.
-•	Maintaining and updating critical process documentation, like SOPs, training guides, lesson learned documents, best practice documents, etc.
-•	Conducted process driven quality analysis initiative of other business stream documentation to improve corporate standards and manuals quality. 
-•	Reduced publishing errors by 25% through the implementation of streamlined workflows and structured peer-review processes, ensuring accuracy and efficiency.
-•	Spearhead process updation initiative to keep team abreast with changes and actively participate in change management initiatives. 
+# Technical Writing Portfolio
 
-Content & Technical Communication Manager
-Rubicon Foundation, Pune | Nov 2022 – May 2023
-•	Collaborated with SMEs to generate process documentation and internal knowledge articles.
-•	Standardized tone and structure across multi-format assets including training guides and summary reports.
-•	Introduced internal documentation hub for faster reference and onboarding.
+Welcome! This repository showcases a collection of my technical writing samples, highlighting experience in creating clear, user-focused documentation for diverse industries and complex products.
 
-Technical Content Writer
-Auctus Systems, Pune | Jan2014 – Oct 2022
-•	Developed product manuals, how-to guides, SOPs, Step-by-Step Guide, White Papers, training manuals, articles, blogs, website content and short form content for clients in SaaS and service sectors.
-•	Translated complex technical inputs into clear, user-focused content.
-•	Utilized tools like Venngage, Jasper AI, and Envato templates for document visualization.
+---
 
-EDUCATION
-Bachelor of Computer Applications (BCA)
+## 👤 Professional Overview
+
+Results-driven Technical Writer with 10+ years of experience transforming complex information into clear, user-friendly documentation across diverse industries. Proven expert in content authoring and documentation management.
+
+---
+
+## 💼 Work Experience
+
+### **Technical Documentation Coordinator**  
+*Tetra Pak India, Pune | Jan 2024 – Present*
+- Manage end-to-end documentation for mechanical and electrical systems (Arbortext, Windchill, Adobe).
+- Coordinate with stakeholders across five project centers (APAC, Africa, JKO) to identify documentation requirements.
+- Design content as per corporate standards and implement innovative process improvements.
+- Maintain and update critical process documentation (SOPs, training guides, best practices, etc.).
+- Led quality analysis initiatives to improve corporate documentation standards.
+- Reduced publishing errors by 25% with streamlined workflows and peer reviews.
+- Spearheaded process updates and actively engaged in change management.
+
+---
+
+### **Content & Technical Communication Manager**  
+*Rubicon Foundation, Pune | Nov 2022 – May 2023*
+- Collaborated with SMEs to generate process documentation and internal knowledge articles.
+- Standardized tone and structure across training guides and reports.
+- Introduced an internal documentation hub for faster reference and onboarding.
+
+---
+
+### **Technical Content Writer**  
+*Auctus Systems, Pune | Jan 2014 – Oct 2022*
+- Developed product manuals, SOPs, guides, white papers, and diverse web content for SaaS and service clients.
+- Translated complex technical inputs into clear, user-focused content.
+- Leveraged tools like Venngage, Jasper AI, and Envato for content visualization.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
 SNDT University, Pune
 
-CERTIFICATIONS
-Certified Technical Writer  
-Henry Harvin Education
-Award/Achievement
-2024
+---
 
-Technical Writing – How to Write Software Documentation
-Udemy
-2005
+## 📃 Certifications
 
-TECHNICAL TOOLS
-•	Arbortext and Windchill
-•	Adobe Acrobat
-•	Jira
-•	SharePoint
-•	MS Office Suite
-•	Google Docs
-•	Github
-•	Asana
-•	Jasper/Chat GPT/Gemini/Copilot
-•	Venngage
-•	Envato
-•	Grammarly
+- **Certified Technical Writer** — Henry Harvin Education (2024)
+- **Technical Writing: How to Write Software Documentation** — Udemy (2005)
 
+---
 
+## 🛠️ Technical Tools
+
+- Arbortext & Windchill
+- Adobe Acrobat
+- Jira
+- SharePoint
+- MS Office Suite
+- Google Docs
+- GitHub
+- Asana
+- Jasper / ChatGPT / Gemini / Copilot
+- Venngage
+- Envato
+- Grammarly
+
+---
 
